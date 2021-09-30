@@ -1,0 +1,56 @@
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    padding: 0%;
+    background-color: rgb(12, 78, 0);
+    width: 100%;
+    max-width: 70%;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: beige;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background-color: rgb(149, 199, 98);
+}
+
+   h2
+   {
+       font-family: small-caps 100%/200% serif;
+       color: rgb(5, 63, 39);
+    }  
+   H3{
+    text-align: center;
+    color: rgb(230, 255, 244);
+    background-color: rgb(39, 78, 0); 
+   }
+
+   p{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 59, 5);
+    padding: 10px;
+   
+    display: block;
+
+   }
+   table {
+       width: 100%;
+       background-color: rgb(12, 78, 0);
+       text-decoration: none;
+       color: beige;
+
+   }
+  
